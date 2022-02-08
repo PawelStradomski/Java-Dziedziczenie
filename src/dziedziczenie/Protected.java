@@ -1,6 +1,9 @@
 
 package dziedziczenie;
 
+/**
+ * author pawelstradomski
+ */
 import dziedziczenie.Potwory.Potwor;
 
 

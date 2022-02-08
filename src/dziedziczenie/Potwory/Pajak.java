@@ -1,6 +1,9 @@
 
 package dziedziczenie.Potwory;
-
+/**
+ * 
+ * @author pawelstradomski
+ */
 
 public class Pajak extends Potwor
 {
